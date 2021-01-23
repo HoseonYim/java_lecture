@@ -6,5 +6,4 @@ public class OmokGameMain {
 		// TODO Auto-generated method stub
 		new GUI("¿À¸ñ");
 	}
-
 }
